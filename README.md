@@ -1,8 +1,8 @@
 # BRACU_MAT120_Lab-Lectures
-MAT120 - Integral Calculus & Co-ordinate Geometry [CSE,BRACU]
-Language: Python
-IDE: Google Colab / Jupiter Notebook
-Semester: Summer 2023
+MAT120 - Integral Calculus & Co-ordinate Geometry [CSE,BRACU]        
+Language: Python        
+IDE: Google Colab / Jupiter Notebook     
+Semester: Summer 2023        
 Lab Faculty: Md Zahidul Islam Laku
 # Lectures And Topics:
 ## Lecture - 1
