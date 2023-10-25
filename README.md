@@ -6,6 +6,9 @@ Language: Python
 IDE: Google Colab / Jupiter Notebook     
 Semester: Summer 2023        
 Lab Faculty: Md Zahidul Islam Laku
+# Project
+Check this repository      
+[MAT120 Project](https://github.com/i-am-surovi/mat120-project-bracu)
 # Lectures And Topics:
 ## Lecture - 1
 Topic: [Python Basics]   
