@@ -40,3 +40,5 @@ i) Euler method for solving differential equations
 Topics: [Numerical integration]      
 i) Trapezoidal Rule      
 ii) Monte Carlo Simulation
+# Support
+If you find any of my repository/ project useful then please give it a ⭐ and share it with your friends!
